@@ -14,6 +14,7 @@ The Barcelona Release (v 0.2) of the Core Metadata micro service  includes the f
 * Fix difference in API versus RAML document
 * GET Device Profile by id not returning 404
 * Removed OS specific file path for logging file 
+* Provide option to include stack trace in log outputs
 
 ##Pull Request/Commit Details
 * None
@@ -32,3 +33,5 @@ The Barcelona Release (v 0.2) of the Core Metadata micro service  includes the f
  - [#3](https://github.com/edgexfoundry/core-metadata/issues/3) - Log File Path not Platform agnostic
  - [#2](https://github.com/edgexfoundry/core-metadata/pull/2) - Add distributionManagement for artifact storage contributed by Andrew Grimberg ([tykeal](https://github.com/tykeal))
  - [#1](https://github.com/edgexfoundry/core-metadata/pull/1) - Contributed Project Fuse source code contributed by Tyler Cox ([trcox](https://github.com/trcox))
+
+Commits: ...
